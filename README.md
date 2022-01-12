@@ -3,6 +3,9 @@
 https://github.com/GLAY-AK2/NTRIP-client-for-Arduino
 をもとにWiFiClient でなくArduinoHttpClient　を使い
 LTE-Mモデム（SIM7080G）の通信でNtripCasterからRTCM補正情報を受信しGPS受信機に送信します。
+
+![image](https://github.com/mnltake/NTRIP-client-for-Arduino/blob/master/img/image.png)
+
 **まだβ版　数分しか動きません　**
 
 DGPS (Differential GPS) and RTK (GPS positioning with centimeter level accuracy) requires the reference position data.
